@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0 16px;
+  background-color: #343a40;
+}
